@@ -3,7 +3,7 @@
  
 //url
    // url untuk ngebot : localhost/appnana.php?action=bot {} SILAHKAN PASANG DISCRIPT ROLL
-   // url untuk login : localhost/appnana.php?action=login&email=EMAIL LO&pass=Password LOe
+   // url untuk login : localhost/appnana.php?action=login&email=mozgcy@gmail.com&pass=Kontol10
 //baca ok
  
 date_default_timezone_set("Asia/Jakarta");
